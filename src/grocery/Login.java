@@ -9,7 +9,7 @@ package grocery;
  *
  * @author Group
  */
-public class Login extends javax.swing.JPanel Implements ManagerFunctionality{
+public class Login extends javax.swing.JPanel Implements ManagerFunctianlity , SalerFunctionality{
 
     /**
      * Creates new form Login
