@@ -63,7 +63,7 @@ Because the project has two levels (manager & Seller) the functionality of each 
        - ADD CATID for each catagory
        - ADD a description
    - Employee
-       - ADD SID  for each seller 
+       - ADD EID  for each seller 
        - ADD PASSWORD 
        - ADD the full name 
        - ADD contact 
@@ -71,13 +71,13 @@ Because the project has two levels (manager & Seller) the functionality of each 
        - DELETE Seller
        - SEARCH for Employee
     - Product
-       - ADD SID  for each Product 
+       - ADD PID  for each Product 
+       - ADD ProductName
        - ADD the catagory
        - ADD Quantity
        - ADD the Price  
        - EDITING Product 
-       - DELETE Product
-       - Clear the Infomation for adding new one    
+       - DELETE Product    
  3. Seller    
     - ADD item
     - ADD Quantity of the item 
