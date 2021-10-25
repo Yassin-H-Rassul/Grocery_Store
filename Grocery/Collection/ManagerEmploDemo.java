@@ -17,7 +17,7 @@ public class ManagerEmploDemo {
 
         ListIterator li=null;
 
-        File file= new File("C:\\Users\\Click\\IdeaProjects\\Grocery\\src\\Files\\Employee.txt");
+        File file= new File(".\\Files\\Employee.txt");
 
         ObjectOutputStream oos=null;
 
